@@ -1,0 +1,14 @@
+<div class="check">index</div>
+ {{#each products}}
+    <div class="widget">
+      <form action="/addCart/{{this.title}}/{{this.price}}/{{this._id}}" method="post">
+        <img  src="{{this.image}}" alt="">
+        <h2>{{this.title}}</h2>
+        <h4>{{this.productDate}}</h4>
+        <h6>{{this.descraption}}</h6>
+        <span> RS . {{this.price}}</span>
+        <span> 5000 - 80% </span>
+         <input type="submit" class="addToCart" value="Add To Cart">
+      </form>
+    </div> 
+  {{/each}}

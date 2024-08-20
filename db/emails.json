@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66bcf45c0094dc1c6b9c29e7"
+  },
+  "email": "www.ahmed@gmail.com",
+  "subject": "Subject 1",
+  "message": "This is subject 1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c371a2e56a94ce979b2979"
+  },
+  "email": "www.mohamed@gmail.com",
+  "subject": "Subject 1",
+  "message": "This is subject 1",
+  "__v": 0
+}]

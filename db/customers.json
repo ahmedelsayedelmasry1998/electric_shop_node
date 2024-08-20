@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "66be5b42a7009cdc178dd7d4"
+  },
+  "customerName": "Ahmed Elmasry",
+  "email": "www.ahmed@gmail.com",
+  "pass": "12345",
+  "phone": "01064907346",
+  "address": "Cairo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c370d2e56a94ce979b296d"
+  },
+  "customerName": "Mohamed Elmasry",
+  "email": "www.mohamed@gmail.com",
+  "pass": "12345",
+  "phone": "01064907353",
+  "address": "Cairo",
+  "__v": 0
+}]

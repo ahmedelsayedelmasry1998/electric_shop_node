@@ -1,0 +1,30 @@
+<div class="content">
+    <h1>Carts</h1>
+    <div class="cartContainer">
+        <table>
+            <tr>
+                <th>Product Name</th>
+                <th>Product Price</th>
+                <th>Product Quantity</th>
+                <th>Product Descraption</th>
+                <th>Date Added</th>
+                <th>Email</th>
+            </tr>
+           {{#each resault}}
+            <tr>
+                <td>{{this.product}}</td>
+                <td>{{this.price}}</td>
+                <td>{{this.quantity}}</td>
+                <td class="descRow">{{this.productId.descraption}}</td>
+                <td>{{this.productId.productDate}}</td>
+                <td>{{this.userId.email}}</td>
+            </tr>
+             {{/each}}
+        </table>
+    </div>
+    <div class="handelBtn">
+    <a class="customBtnCheckout" href="/checkOut">Checkout</a>
+    </div>      
+
+</div>
+

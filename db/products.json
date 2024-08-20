@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "66ba784e50086fe323771ea1"
+  },
+  "productName": "MOBILE",
+  "title": "I PHONE 12",
+  "price": 20000,
+  "descraption": "It is apple usa company with water resistance ...",
+  "image": "./productImages/iphone12.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771ea2"
+  },
+  "productName": "KEYBOARD",
+  "title": "LOKIA",
+  "price": 15000,
+  "descraption": "It is a cheap backlit gaming keyboard with 120keys...",
+  "image": "./productImages/lokia.png",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e9c"
+  },
+  "productName": "KEYBOARD",
+  "title": "LOKIA",
+  "price": 15000,
+  "descraption": "It is a cheap backlit gaming keyboard with 120keys...",
+  "image": "./productImages/lokia.png",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771ea3"
+  },
+  "productName": "MOUSA",
+  "title": "L 12 TRI",
+  "price": 22000,
+  "descraption": "   Mouse of tri-lateral button, having 3500dpi with anti-slip  technology.",
+  "image": "./productImages/l12tri.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771ea4"
+  },
+  "productName": "LAPTOP",
+  "title": "HB INTEL 11",
+  "price": 25000,
+  "descraption": "   Mouse of tri-lateral button, having 3500dpi with anti-slip  technology.",
+  "image": "./productImages/hbinteil11.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e9d"
+  },
+  "productName": "MOUSA",
+  "title": "L 12 TRI",
+  "price": 22000,
+  "descraption": "   Mouse of tri-lateral button, having 3500dpi with anti-slip  technology.",
+  "image": "./productImages/l12tri.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e9f"
+  },
+  "productName": "LAPTOP",
+  "title": "HR 77GT INIEL I5",
+  "price": 30000,
+  "descraption": " It has 4gb ram with 256gb ssd and having 3gb HUD ...",
+  "image": "./productImages/HR77GTINIELI5.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e9b"
+  },
+  "productName": "MOBILE",
+  "title": "I PHONE 12",
+  "price": 20000,
+  "descraption": "It is apple usa company with water resistance ...",
+  "image": "./productImages/iphone12.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e9e"
+  },
+  "productName": "LAPTOP",
+  "title": "HB INTEL 11",
+  "price": 25000,
+  "descraption": "   Mouse of tri-lateral button, having 3500dpi with anti-slip  technology.",
+  "image": "./productImages/hbinteil11.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e98"
+  },
+  "productName": "LAPTOP",
+  "title": "HB INTEL 11",
+  "price": 25000,
+  "descraption": "   Mouse of tri-lateral button, having 3500dpi with anti-slip  technology.",
+  "image": "./productImages/hbinteil11.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771ea0"
+  },
+  "productName": "KEYBOARD",
+  "title": "GEFORE KEYBOARD",
+  "price": 10000,
+  "descraption": "Gaming keyboard and has backlit with water resistence features along and suspension...",
+  "image": "./productImages/GEFOREKEYBOARD.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e9a"
+  },
+  "productName": "KEYBOARD",
+  "title": "GEFORE KEYBOARD",
+  "price": 10000,
+  "descraption": "Gaming keyboard and has backlit with water resistence features along and suspension...",
+  "image": "./productImages/GEFOREKEYBOARD.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e99"
+  },
+  "productName": "LAPTOP",
+  "title": "HR 77GT INIEL I5",
+  "price": 30000,
+  "descraption": " It has 4gb ram with 256gb ssd and having 3gb HUD ...",
+  "image": "./productImages/HR77GTINIELI5.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e97"
+  },
+  "productName": "MOUSA",
+  "title": "L 12 TRI",
+  "price": 22000,
+  "descraption": "   Mouse of tri-lateral button, having 3500dpi with anti-slip  technology.",
+  "image": "./productImages/l12tri.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e96"
+  },
+  "productName": "KEYBOARD",
+  "title": "LOKIA",
+  "price": 15000,
+  "descraption": "It is a cheap backlit gaming keyboard with 120keys...",
+  "image": "./productImages/lokia.png",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba784e50086fe323771e95"
+  },
+  "productName": "MOBILE",
+  "title": "I PHONE 12",
+  "price": 20000,
+  "descraption": "It is apple usa company with water resistance ...",
+  "image": "./productImages/iphone12.jpg",
+  "author": "bhabishya",
+  "productDate": {
+    "$date": "2024-08-12T21:02:06.601Z"
+  },
+  "__v": 0
+}]

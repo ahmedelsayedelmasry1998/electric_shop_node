@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66c3a39cb6770030f38a2f42"
+  },
+  "product": "L 12 TRI",
+  "price": 44000,
+  "quantity": 2,
+  "userId": {
+    "$oid": "66bcf45c0094dc1c6b9c29e7"
+  },
+  "productId": {
+    "$oid": "66ba784e50086fe323771e9d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c3a3aab6770030f38a2f4d"
+  },
+  "product": "L 12 TRI",
+  "price": 22000,
+  "quantity": 1,
+  "userId": {
+    "$oid": "66bcf45c0094dc1c6b9c29e7"
+  },
+  "productId": {
+    "$oid": "66ba784e50086fe323771e97"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c3a3fc1e10796dc9b2e3c3"
+  },
+  "product": "HR 77GT INIEL I5",
+  "price": 60000,
+  "quantity": 2,
+  "userId": {
+    "$oid": "66bcf45c0094dc1c6b9c29e7"
+  },
+  "productId": {
+    "$oid": "66ba784e50086fe323771e99"
+  },
+  "__v": 0
+}]
